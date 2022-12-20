@@ -33,8 +33,7 @@
 <p align="center">
 
 - **Languages**:
-    
-    ![NodeJs](https://github.com/RDTUTORIAL/RDTUTORIAL/raw/main/assets/images/nodejs.svg =98x28)
+    ![NodeJs](https://github.com/RDTUTORIAL/RDTUTORIAL/raw/main/assets/images/nodejs.png)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)    
 
 <br>   
