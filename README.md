@@ -154,5 +154,5 @@ const developer = {
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/yourusername">yourusername</a></i>
+  <i>⭐️ From <a href="https://github.com/RDTUTORIAL">RDTUTORIAL</a></i>
 </div>
