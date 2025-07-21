@@ -13,7 +13,7 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "DANIS",
     role: "Full-Stack Developer",
     location: "Indonesia 🇮🇩",
     currentFocus: ["Full-Stack Development", "Mobile Apps", "AI/ML", "NLP", "Cybersecurity"],
@@ -107,14 +107,6 @@ const developer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=be95ff&line=628fdb&point=a8cc8c&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -144,13 +136,10 @@ const developer = {
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/RDTUTORIAL">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:daniskadek123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://twitter.com/yourusername">
