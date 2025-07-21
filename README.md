@@ -17,10 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer
-- Learn cyber security in free time
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/pudidi99)
+🌱 I’m currently learning:
+- 🌐 Full-Stack Web Development  
+- 📱 Mobile App Development  
+- 🤖 Artificial Intelligence (AI)  
+- 🔐 Cybersecurity
 
 <br><br>
 
