@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Danis
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Web+Developer;Mobile+App+Developer;AI%2FML+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
