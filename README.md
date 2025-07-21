@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Danis
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Web+Developer;Mobile+App+Developer;AI%2FML+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Web+Developer;Mobile+App+Developer;AI%2FML+Enthusiast;IoT+Developer;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,9 +16,9 @@ const developer = {
     name: "DANIS",
     role: "Full-Stack Developer",
     location: "Indonesia 🇮🇩",
-    currentFocus: ["Full-Stack Development", "Mobile Apps", "AI/ML", "NLP", "Cybersecurity"],
-    learning: ["Advanced React Patterns", "Microservices", "Rasa Chatbots", "spaCy NLP"],
-    hobbies: ["Coding", "Reading Tech Blogs", "Open Source Contributing"],
+    currentFocus: ["Full-Stack Development", "Mobile Apps", "AI/ML", "NLP", "IoT & Embedded Systems", "Cybersecurity"],
+    learning: ["Advanced React Patterns", "Microservices", "Rasa Chatbots", "IoT Projects with ESP32"],
+    hobbies: ["Coding", "Reading Tech Blogs", "Open Source Contributing", "IoT Tinkering"],
     motto: "Code with passion, learn with curiosity! 💪"
 };
 ```
@@ -66,10 +66,23 @@ const developer = {
 ### 🤖 AI/ML & Data Science
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
   <img src="https://img.shields.io/badge/Rasa-5C2D91?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"/>
+</div>
+
+### ⚡ Embedded Systems & IoT
+<div align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Arduino%20Nano-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino Nano"/>
 </div>
 
 ### 🗄️ Databases & Cloud Services
@@ -107,6 +120,14 @@ const developer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDTUTORIAL&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RDTUTORIAL&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RDTUTORIAL&theme=tokyo-night&bg_color=1a1b27&color=be95ff&line=628fdb&point=a8cc8c&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -118,11 +139,11 @@ const developer = {
 
 ## 🎯 Current Focus Areas
 
-- 🌱 **Currently Learning**: Advanced React patterns, Microservices architecture, NLP with Rasa & spaCy, Local AI with Ollama
-- 🔭 **Working On**: Full-stack web applications with modern tech stacks
-- 👯 **Looking to Collaborate**: Open source projects, AI/ML applications
-- 🤔 **Exploring**: Cybersecurity fundamentals, Edge AI deployment
-- ⚡ **Fun Fact**: I love turning coffee into code! ☕➡️💻
+- 🌱 **Currently Learning**: Advanced React patterns, Microservices architecture, NLP with Rasa & spaCy, IoT development with ESP32 & Arduino
+- 🔭 **Working On**: Full-stack web applications, IoT projects, and AI/ML applications
+- 👯 **Looking to Collaborate**: Open source projects, AI/ML applications, IoT solutions
+- 🤔 **Exploring**: Cybersecurity fundamentals, Edge AI deployment, Smart home automation
+- ⚡ **Fun Fact**: I love turning coffee into code and ideas into IoT prototypes! ☕➡️💻🔧
 
 ---
 
