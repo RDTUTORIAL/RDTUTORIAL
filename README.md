@@ -124,9 +124,6 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RDTUTORIAL&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RDTUTORIAL&theme=tokyo-night&bg_color=1a1b27&color=be95ff&line=628fdb&point=a8cc8c&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
 
 ---
 
