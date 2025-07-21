@@ -16,8 +16,8 @@ const developer = {
     name: "Your Name",
     role: "Full-Stack Developer",
     location: "Indonesia 🇮🇩",
-    currentFocus: ["Web Development", "Mobile Apps", "AI/ML", "Cybersecurity"],
-    learning: ["Advanced React Patterns", "Microservices", "Ollama"],
+    currentFocus: ["Full-Stack Development", "Mobile Apps", "AI/ML", "NLP", "Cybersecurity"],
+    learning: ["Advanced React Patterns", "Microservices", "Rasa Chatbots", "spaCy NLP"],
     hobbies: ["Coding", "Reading Tech Blogs", "Open Source Contributing"],
     motto: "Code with passion, learn with curiosity! 💪"
 };
@@ -49,35 +49,53 @@ const developer = {
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
-### ⚙️ Backend & Mobile
+### ⚙️ Backend Development
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </div>
 
-### 🤖 AI/ML & Tools
+### 📱 Mobile Development
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</div>
+
+### 🤖 AI/ML & Data Science
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/Rasa-5C2D91?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"/>
 </div>
 
-### 🗄️ Databases
+### 🗄️ Databases & Cloud Services
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
 </div>
 
 ### 🛠️ DevOps & Development Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</div>
+
+### 📦 Package Managers & Build Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
 </div>
 
 ---
@@ -108,7 +126,7 @@ const developer = {
 
 ## 🎯 Current Focus Areas
 
-- 🌱 **Currently Learning**: Advanced React patterns, Microservices architecture, Local AI models with Ollama
+- 🌱 **Currently Learning**: Advanced React patterns, Microservices architecture, NLP with Rasa & spaCy, Local AI with Ollama
 - 🔭 **Working On**: Full-stack web applications with modern tech stacks
 - 👯 **Looking to Collaborate**: Open source projects, AI/ML applications
 - 🤔 **Exploring**: Cybersecurity fundamentals, Edge AI deployment
