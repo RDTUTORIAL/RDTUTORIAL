@@ -17,7 +17,7 @@ const developer = {
     role: "Full-Stack Developer",
     location: "Indonesia 🇮🇩",
     currentFocus: ["Full-Stack Development", "Mobile Apps", "AI/ML", "NLP", "IoT & Embedded Systems", "Cybersecurity"],
-    learning: ["Advanced React Patterns", "Microservices", "Rasa Chatbots", "IoT Projects with ESP32"],
+    learning: ["Advanced React Patterns", "Microservices", "Rasa Chatbots", "IoT Projects"],
     hobbies: ["Coding", "Reading Tech Blogs", "Open Source Contributing", "IoT Tinkering"],
     motto: "Code with passion, learn with curiosity! 💪"
 };
